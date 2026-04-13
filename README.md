@@ -20,5 +20,4 @@ This project explores an African dataset using Python.
 - Matplotlib
 - Seaborn
 
-## Insights
-- (Add 2–3 things you noticed from data)
+
